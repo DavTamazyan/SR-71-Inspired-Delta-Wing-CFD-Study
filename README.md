@@ -12,6 +12,7 @@ Built independently to develop a complete CFD workflow from scratch — CAD mode
 
 *Static pressure contours at 10° AoA*
 
+The entire Ansys workspace can be accessed in the RELEASES. 
 ---
 
 ## What I built
